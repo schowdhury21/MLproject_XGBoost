@@ -1,2 +1,2 @@
 def multiply(x,y):
-    return x*y
+    return 3*x*y
